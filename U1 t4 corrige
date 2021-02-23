@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>U1T4 Les périphériques</title>
+	<style type="text/css">
+	
+		body { 
+			background-image: url("peripherique.jpg");
+			background-size: 900px;
+			background-repeat: no-repeat; 
+		}	
+		.q123 { 
+			font-weight: bold;
+			font-size: 16pt;
+			color: blue;
+		}
+		.qi { 
+			color: blue;
+		}
+
+		div { 
+			width: 700px;
+			background-color: rgba(173, 170, 170, 0.8);
+			padding: 10px;
+			box-shadow: 5px 5px 5px black;	
+		}
+	</style>
+</head>
+<body>
+	<h1>Les périphériques</h1>
+	<div> 
+		<ol>
+				<li class="q123">En informatique, quels sont les deux grands types de périphériques ? </li>
+				<br>
+				<li class="q123">Nomme le périphérique qui… </li>
+		</ol>
+
+		<ol type=i>
+				<li class="qi">Permet de se connecter à Internet</li>
+				<li class="qi">D'afficher le contenu de l'ordinateur</li>
+				<li class="qi">Permet d'imprimer sur papier des fichiers</li>
+				<li class="qi">Permet de filmer des images et de les transférer sur l'ordinateur</li>
+				<li class="qi">Permet d'écouter les fichiers sons</li>
+				<li class="qi">Permet de communiquer avec l’ordinateur en déplaçant un curseur et en cliquant sur des éléments</li>
+				<li class="qi">Permet d’entrer du texte et des nombres à l’aide des doigts.</li>
+		</ol>
+	</div>
+</body>
+</html>
